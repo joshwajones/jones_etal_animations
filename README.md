@@ -1,1 +1,1 @@
-# jones_etal_animations
+Animations for GIANT IMPACTS AND DEBRIS DISK MORPHOLOGY (Jones et al)
