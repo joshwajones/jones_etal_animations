@@ -1,1 +1,1 @@
-Animations for GIANT IMPACTS AND DEBRIS DISK MORPHOLOGY (Jones et al)
+Animations for "Giant Impacts and Debris Disk Morphology" (Jones et al)
